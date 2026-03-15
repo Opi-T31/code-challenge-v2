@@ -1,0 +1,42 @@
+{
+  "status": "done",
+  "assets": {
+    "2b3e1faf89f94a483539.png": {
+      "name": "2b3e1faf89f94a483539.png",
+      "path": "/app/assets/bundles/2b3e1faf89f94a483539.png",
+      "publicPath": "http://localhost:3000/static/bundles/2b3e1faf89f94a483539.png",
+      "sourceFilename": "node_modules/leaflet/dist/images/marker-icon.png"
+    },
+    "416d91365b44e4b4f477.png": {
+      "name": "416d91365b44e4b4f477.png",
+      "path": "/app/assets/bundles/416d91365b44e4b4f477.png",
+      "publicPath": "http://localhost:3000/static/bundles/416d91365b44e4b4f477.png",
+      "sourceFilename": "node_modules/leaflet/dist/images/layers.png"
+    },
+    "8f2c4d11474275fbc161.png": {
+      "name": "8f2c4d11474275fbc161.png",
+      "path": "/app/assets/bundles/8f2c4d11474275fbc161.png",
+      "publicPath": "http://localhost:3000/static/bundles/8f2c4d11474275fbc161.png",
+      "sourceFilename": "node_modules/leaflet/dist/images/layers-2x.png"
+    },
+    "app-a91abc250ce39ee1f58c.js": {
+      "name": "app-a91abc250ce39ee1f58c.js",
+      "path": "/app/assets/bundles/app-a91abc250ce39ee1f58c.js",
+      "publicPath": "http://localhost:3000/static/bundles/app-a91abc250ce39ee1f58c.js"
+    },
+    "bootstrap-a91abc250ce39ee1f58c.js": {
+      "name": "bootstrap-a91abc250ce39ee1f58c.js",
+      "path": "/app/assets/bundles/bootstrap-a91abc250ce39ee1f58c.js",
+      "publicPath": "http://localhost:3000/static/bundles/bootstrap-a91abc250ce39ee1f58c.js"
+    }
+  },
+  "chunks": {
+    "app": [
+      "app-a91abc250ce39ee1f58c.js"
+    ],
+    "bootstrap": [
+      "bootstrap-a91abc250ce39ee1f58c.js"
+    ]
+  },
+  "publicPath": "http://localhost:3000/static/bundles/"
+}
